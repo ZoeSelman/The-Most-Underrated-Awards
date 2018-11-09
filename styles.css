@@ -10,13 +10,22 @@ img{
 }
 
 .movie{
-font-family: 'Pattaya', sans-serif;
-color: silver;
+font-family: 'Black And White Picture', sans-serif;
+color: white;
 }
 .show{
     font-family: 'Spicy Rice', cursive;
-    color: pink;
+    color:orangered;
 }
 .singer{
-    
+    font-family: 'Pacifico', cursive;
+    color: pink;
+
+}
+.author{
+   font-family: 'Orbitron', sans-serif;
+   color: lime;
+}
+.disneymovie{
+   font-family: 'Monoton', cursive; 
 }
